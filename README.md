@@ -2,7 +2,7 @@
 
 This repository contains my **Packet Tracer (.pka/.pkt) lab files** covering major **CCNA topics**.
 
-All labs in this repository have been **completed and verified** except for the last lab( the mega lab) which will be done soon.
+All labs in this repository have been **completed and verified**.
 
 Each lab includes **step-by-step notes** that I wrote while performing the configuration and troubleshooting tasks.
 
