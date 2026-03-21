@@ -8,7 +8,7 @@ Each lab includes **step-by-step notes** that I wrote while performing the confi
 
 ## Notes about the lab files
 
-- Each lab contains **embedded notes** explaining the steps I followed.
+- Each lab contains embeded notes starting with **"Solution**" explaining the steps I followed.
 - Some notes may appear as **a single line when first opened** in Packet Tracer.
 - If that happens, **click the note box** and it will expand to display the full text across multiple lines.
 
