@@ -6,7 +6,7 @@ All labs in this repository have been **completed and verified**.
 
 Each lab includes **step-by-step notes** that I wrote while performing the configuration and troubleshooting tasks.
 
-## Notes about the lab files
+## About the notes in the lab files
 
 - Each lab contains embeded notes starting with "**Solution**" explaining the steps I followed.
 - Some notes may appear as **a single line when first opened** in Packet Tracer.
